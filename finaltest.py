@@ -1,2 +1,6 @@
-print("This was the final test for git-hub devops")
-print("This is sentence", 6 , "is the value")
+"""
+This module is for the final testing phase.
+"""
+
+# This script demonstrates the final testing file.
+print("This is the final testing file")
